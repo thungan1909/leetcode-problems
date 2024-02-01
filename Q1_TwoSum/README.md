@@ -1,5 +1,9 @@
 # Two Sum
 
+# Easy
+
+# Array, Hash Tabe
+
 Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.
 
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
@@ -34,3 +38,9 @@ Output: `[0,1]`
 - Only one valid answer exists.
 
 Follow-up: Can you come up with an algorithm that is less than O(n^2) time complexity?
+
+## Implementation
+
+You can find the implementation in
+[JavaScript Solution1](solution1.js)
+[JavaScript Solution2](solution2.js).
