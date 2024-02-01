@@ -18,8 +18,8 @@ This repository serves as a collection of my solutions to LeetCode problems. Sol
 The problems are solved using the following programming languages:
 
 
-- C++
-- JavaScript
+- C/C++
+- JavaScript (Most frequently used)
 - ...
   
 ## Directory Structure
