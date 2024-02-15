@@ -14,7 +14,7 @@ Dưới đây là một giải thích từng bước của mã:
 
 6. Bên trong vòng lặp, nó lấy các giá trị (`x` và `y`) của các nút hiện tại của `l1` và `l2` (hoặc 0 nếu nút hiện tại là null).
 
-7. Nó tính tổng của `x`, `y`, và carry từ bước trước.
+7. Nó tí nh tổng của `x`, `y`, và carry từ bước trước.
 
 8. Cập nhật carry cho vòng lặp tiếp theo bằng cách chia tổng cho 10 và lấy phần nguyên.
 
