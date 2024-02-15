@@ -1,3 +1,9 @@
+// Source: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+// SOLUTION: USING A SLIDING WINDOW
+// Time complexity: O(n)
+// Space complexity: O(1) in the worst case
+// Link: https://leetcode.com/problems/longest-substring-without-repeating-characters/solutions/4659073/longest-substring-without-repeating-characters/
+
 /**
  * @param {string} s
  * @return {number}
@@ -21,3 +27,9 @@ var lengthOfLongestSubstring = function (s) {
 
   return maxLength;
 };
+
+// Test cases
+
+console.log(lengthOfLongestSubstring("abcabcbb")); // 3
+console.log(lengthOfLongestSubstring("bbbbb")); // 1
+console.log(lengthOfLongestSubstring("pwwkew")); // 3
