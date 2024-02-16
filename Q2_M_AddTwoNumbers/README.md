@@ -1,4 +1,8 @@
-# Adding Two Numbers as Linked Lists
+# Add Two Numbers
+
+- **Link problem:** [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+- **Difficulty:** Medium
+- **Topic:** Linked List, Math, Recursion
 
 ## Problem Statement
 
@@ -8,26 +12,22 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 ## Example 1:
 
-Input: `l1 = [2,4,3], l2 = [5,6,4]`
-
-Output: `[7,0,8]`
-
-Explanation: 342 + 465 = 807.
+- **Input:** `l1 = [2,4,3], l2 = [5,6,4]`
+- **Output:** `[7,0,8]`
+- **Explanation:** `342 + 465 = 807.`
 
 ![Alt text](image.png)
 
 ## Example 2:
 
-Input: `l1 = [0], l2 = [0]`
-
-Output: `[0]`
+- **Input:** `l1 = [0], l2 = [0]`
+- **Output:** `[0]`
 
 ## Example 3:
 
-Input: `l1 = [9,9,9,9,9,9,9], l2 = [9,9,9,9]`
-
-Output: `[8,9,9,9,0,0,0,1]`
+- **Input:** `l1 = [9,9,9,9,9,9,9], l2 = [9,9,9,9]`
+- **Output:** `[8,9,9,9,0,0,0,1]`
 
 ## Implementation
 
-You can find the implementation in [JavaScript](solution1.js).
+You can find the implementation in [JavaScript](solution.js).

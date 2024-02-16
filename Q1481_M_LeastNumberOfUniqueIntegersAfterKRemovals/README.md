@@ -1,4 +1,4 @@
-## Least Number of Unique Integers after K Removals
+# Least Number of Unique Integers after K Removals
 
 - **Link problem:** [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)
 - **Difficulty:** Medium
@@ -24,3 +24,7 @@ Given an array of integers `arr` and an integer `k`, find the least number of un
 - `1 <= arr.length <= 10^5`
 - `1 <= arr[i] <= 10^9`
 - `0 <= k <= arr.length`
+
+## Implementation
+
+You can find the implementation in [JavaScript Solution](solution.js)
