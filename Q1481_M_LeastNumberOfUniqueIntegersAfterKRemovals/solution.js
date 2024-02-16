@@ -31,3 +31,8 @@ var findLeastNumOfUniqueInts = function (arr, k) {
 
   return uniqueInt;
 };
+
+// Test cases
+console.log(findLeastNumOfUniqueInts([5, 5, 4], 1)); // 1
+console.log(findLeastNumOfUniqueInts([4, 3, 1, 1, 3, 3, 2], 3)); // 2
+console.log(findLeastNumOfUniqueInts([1], 1)); // 0
