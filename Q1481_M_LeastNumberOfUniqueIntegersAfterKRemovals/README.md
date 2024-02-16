@@ -1,6 +1,6 @@
 ## Least Number of Unique Integers after K Removals
 
-- **Link problem:** [Least Number of Unique Integers after K Removals] (https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)
+- **Link problem:** [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)
 - **Difficulty:** Medium
 
 ## Problem Statement
