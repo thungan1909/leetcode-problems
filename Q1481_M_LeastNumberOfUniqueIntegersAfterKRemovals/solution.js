@@ -1,4 +1,4 @@
-// Source: https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/
+// Link: https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/
 // Difficulty: Medium
 // Topics: Array, Greedy.
 // SOLUTION: USING MAP

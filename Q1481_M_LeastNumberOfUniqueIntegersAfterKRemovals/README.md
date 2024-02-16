@@ -1,6 +1,7 @@
-# Median of Two Sorted Arrays
+## Least Number of Unique Integers after K Removals
 
-**Difficulty:** Hard
+- **Link:** https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/
+- **Difficulty:** Medium
 
 ## Problem Statement
 
