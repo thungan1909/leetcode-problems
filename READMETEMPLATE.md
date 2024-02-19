@@ -26,4 +26,4 @@
 
 ## Implementation
 
-You can find the implementation in [JavaScript Solution](solution.js)
+You can find the implementation in [JavaScript Solution](solution.js) or in [Leetcode solution](https://leetcode.com/problems)

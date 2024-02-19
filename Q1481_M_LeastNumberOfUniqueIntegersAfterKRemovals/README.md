@@ -28,4 +28,4 @@ Given an array of integers `arr` and an integer `k`, find the least number of un
 
 ## Implementation
 
-You can find the implementation in [JavaScript Solution](solution.js)
+You can find the implementation in [JavaScript Solution](solution.js) or in [Leetcode solution](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/solutions/4736282/beats-97-44-of-users-with-javascript-least-number-of-unique-integers-after-k-removals/)

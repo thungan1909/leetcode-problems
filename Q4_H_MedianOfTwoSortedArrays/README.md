@@ -33,4 +33,4 @@ The overall run time complexity should be O(log (m+n)).
 
 ## Implementation
 
-You can find the implementation in [JavaScript Solution](solution.js)
+You can find the implementation in [JavaScript Solution](solution.js) or in [Leetcode solution](https://leetcode.com/problems/median-of-two-sorted-arrays/solutions/4730555/median-of-two-sorted-arrays-javascript-solution/)

@@ -34,4 +34,4 @@ Given a string `s`, find the length of the longest substring without repeating c
 
 ## Implementation
 
-You can find the implementation in [JavaScript Solution](solution.js)
+You can find the implementation in [JavaScript Solution](solution.js) or in [Leetcode solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/solutions/4659073/longest-substring-without-repeating-characters/)

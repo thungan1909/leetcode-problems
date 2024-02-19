@@ -26,4 +26,4 @@ Given a string s, return the longest palindromic substring in s.
 
 ## Implementation
 
-You can find the implementation in [JavaScript Solution](solution.js)
+You can find the implementation in [JavaScript Solution](solution.js) or in [Leetcode solution](https://leetcode.com/problems)

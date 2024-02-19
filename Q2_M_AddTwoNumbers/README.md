@@ -30,4 +30,4 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 ## Implementation
 
-You can find the implementation in [JavaScript](solution.js).
+You can find the implementation in [JavaScript](solution.js) or in [Leetcode solution](https://leetcode.com/problems/add-two-numbers/solutions/4628009/add-two-numbers/)

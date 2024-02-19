@@ -40,5 +40,8 @@ You can return the answer in any order.
 ## Implementation
 
 You can find the implementation in
-[JavaScript Solution1](solution1.js)
-[JavaScript Solution2](solution2.js).
+
+- [JavaScript Solution1](solution1.js)
+- [JavaScript Solution2](solution2.js)
+- [Leetcode solution 1](https://leetcode.com/problems/two-sum/solutions/4618168/two-sum-javascript-solution-using-for-loop/)
+- [Leetcode solution2](https://leetcode.com/problems/two-sum/solutions/)
