@@ -32,4 +32,4 @@ The length of a path between two nodes is represented by the number of edges bet
 
 ## Implementation
 
-You can find the implementation in [JavaScript Solution](solution.js) or in [Leetcode solution](https://leetcode.com/problems)
+You can find the implementation in [JavaScript Solution](solution.js) or in [Leetcode solution](https://leetcode.com/problems/diameter-of-binary-tree/solutions/4788619/very-simple-javascript-solution-using-dfs/)
